@@ -3,5 +3,8 @@ Invento was created during my learning in Python to promote my knowledge about t
 
 ## Tools
 Python - Programming Language <br/>
-PyQt - UI Library <br/>
+Tkinter - UI Library <br/>
 MySQL - DataBase
+
+## Preview
+<img src="invento.png">
